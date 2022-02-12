@@ -1,10 +1,8 @@
 /*global kakao*/
 import React, { useEffect } from "react";
-import { useDispatch } from "react-redux";
 import MapFrom from "../components/MapFrom";
 
 const MapContainer = ({ info }) => {
-  const dispatch = useDispatch();
   useEffect(() => {
     const container = document.getElementById("myMap");
     const options = {
