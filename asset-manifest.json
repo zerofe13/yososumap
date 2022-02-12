@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yososumap/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/yososumap/static/js/main.60a8013a.chunk.js",
+    "main.js.map": "/yososumap/static/js/main.60a8013a.chunk.js.map",
+    "runtime-main.js": "/yososumap/static/js/runtime-main.9b41d425.js",
+    "runtime-main.js.map": "/yososumap/static/js/runtime-main.9b41d425.js.map",
+    "static/js/2.449facd8.chunk.js": "/yososumap/static/js/2.449facd8.chunk.js",
+    "static/js/2.449facd8.chunk.js.map": "/yososumap/static/js/2.449facd8.chunk.js.map",
+    "static/js/3.88c539af.chunk.js": "/yososumap/static/js/3.88c539af.chunk.js",
+    "static/js/3.88c539af.chunk.js.map": "/yososumap/static/js/3.88c539af.chunk.js.map",
+    "index.html": "/yososumap/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/yososumap/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.449facd8.chunk.js.LICENSE.txt": "/yososumap/static/js/2.449facd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b41d425.js",
+    "static/js/2.449facd8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.60a8013a.chunk.js"
+  ]
+}
